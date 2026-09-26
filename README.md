@@ -1,8 +1,8 @@
 # Ivy Grzybowski
 
-**Design Technologist**
+**Product Designer & Creative Technologist**
 
-Building a creative OS for designers experimenting with code.
+Building a Creative OS for designers who work in the terminal.
 
 ### ✷ What I'm building
 
