@@ -1,9 +1,3 @@
-# Ivy Grzybowski
-
-**Product Designer & Creative Technologist**
-
-Building a creative OS for designers who work in the terminal.
-
 <img src="peach-lilac-kiss.gif" alt="Peach and Lilac, Unicorn's pixel unicorns, gallop in and kiss" width="700">
 
 ### ❀ What I'm building
